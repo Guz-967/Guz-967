@@ -51,7 +51,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guz-967/Guz-967/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guz-967/Guz-967/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Guz-967/Guz-967/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Guz-967/Guz-967/blob/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guz-967/Guz-967/output/github-contribution-grid-snake.svg">
 </picture>
