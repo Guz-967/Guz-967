@@ -1,10 +1,11 @@
-## Olá, sou o Gustavo, estudante de ADS e futuro Desenvolvedor de Sofwate 👋
+## Olá 👋
 
 Atualmente estou buscando uma oportunidade como porta de entrada para o mercado de trabalho, preferencialmente como estagiário. 
 
-Atrelado aos estudos da faculdade, estou estudando nodejs para embarcar no mundo backend.
+Atrelado aos estudos da faculdade, estou estudando Nodejs para embarcar no mundo backend.
 
-Contate-me no email: gustavo.saraujo542@gmail.com
+Aqui no meu github é possível encontrar repositórios com algumas práticas e projetos que fiz, 
+Contate-me no e-mail: gustavo.saraujo542@gmail.com
 <!--
 **Guz-967/Guz-967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,11 +24,10 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img align="center" alt="Guz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Guz-MySql" height="30" width="40" src="https://camo.githubusercontent.com/eb004cb648d3c21c3855a309f35b18f7e383133592d9a501c2d9ed82a9182b62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667">
   <img align="center" alt="Guz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guz-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="Guz-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Guz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <!--
   <img align="center" alt="Guz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   -->
