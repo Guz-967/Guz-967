@@ -1,27 +1,10 @@
-## Olá 👋
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+Gustavo+de+Souza;Bem-vindo(a)+ao+meu+github!)](https://git.io/typing-svg)
 
-Atualmente estou buscando uma oportunidade como porta de entrada para o mercado de trabalho, preferencialmente como estagiário. 
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no SENAC, também fiz curso técnico em TI integrado ao ensino médio na mesma instituição. Tenho interesses tanto em frontend quanto backend, mas me dou melhor com backend, minhas principais linguagens são JavaScript e Java. Venho aprofundando meus conhecimentos em backend utilizando Node.Js com Javascript, e Java. Busco evoluir constantemente para ser um profissional qualificado e resolver qualquer problema que vir. Aqui no meu github é possível encontrar alguns projetos acadêmicos e pessoais que desenvolvi ao longo da minha jornada de estudos, fique a vontade para explorar meu github como quiser.
 
-Atrelado aos estudos da faculdade, estou estudando Nodejs para embarcar no mundo backend.
-
-Aqui no meu github é possível encontrar repositórios com algumas práticas e projetos que fiz, 
-Contate-me no e-mail: gustavo.saraujo542@gmail.com
-<!--
-**Guz-967/Guz-967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div style="display: inline_block"><br>
+##
+<h3 align="left">Minhas tecnologias</h3>
+<div style="display: inline_block">
   <img align="center" alt="Guz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Guz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,14 +16,14 @@ Here are some ideas to get you started:
   -->
 </div>
   
-  ##
- 
+<br>
+ <h3 align="left">Me encontre aqui:</h3>
 <div> 
-  <a href = "mailto:gustavo.saraujo542@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-saraujo"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href = "mailto:gustavo.saraujo542@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-saraujo"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Guz-967/Guz-967/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Guz-967/Guz-967/blob/output/github-contribution-grid-snake.svg">
